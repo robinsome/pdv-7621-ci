@@ -7,7 +7,7 @@ compiler:
 
 env:
     global:
-      - targets="K2P-USB K2P-USB-5.0 NEWIFI3"
+      - targets="K2P-USB K2P-USB-5.0"
       - toolchain_url="https://github.com/hanwckf/padavan-toolchain/releases/download/v1.1/mipsel-linux-uclibc.tar.xz"
 
 addons:
